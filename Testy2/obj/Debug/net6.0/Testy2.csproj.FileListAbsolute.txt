@@ -1,0 +1,15 @@
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\bin\Debug\net6.0\Testy2.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\bin\Debug\net6.0\Testy2.deps.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\bin\Debug\net6.0\Testy2.runtimeconfig.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\bin\Debug\net6.0\Testy2.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\bin\Debug\net6.0\Testy2.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\Testy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\Testy2.AssemblyInfoInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\Testy2.AssemblyInfo.cs
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\Testy2.csproj.CoreCompileInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\Testy2.sourcelink.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\Testy2.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\refint\Testy2.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\Testy2.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\Testy2.genruntimeconfig.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\Testy2\obj\Debug\net6.0\ref\Testy2.dll
