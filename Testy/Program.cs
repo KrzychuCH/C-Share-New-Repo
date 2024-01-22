@@ -12,12 +12,7 @@ namespace Testy
         public string Znak = "*";
         
 
-      /*  public DoIt(int firstNumber, int secondNumber , int sumNumber)
-        {
-        FirstNumber = firstNumber;
-            SecondNumber = secondNumber;
-            SumNumber = sumNumber;
-            }*/
+   
         public int Dodawanie()
         {
 
