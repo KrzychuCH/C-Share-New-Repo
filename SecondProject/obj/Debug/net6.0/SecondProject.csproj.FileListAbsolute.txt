@@ -1,0 +1,15 @@
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\bin\Debug\net6.0\SecondProject.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\bin\Debug\net6.0\SecondProject.deps.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\bin\Debug\net6.0\SecondProject.runtimeconfig.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\bin\Debug\net6.0\SecondProject.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\bin\Debug\net6.0\SecondProject.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfo.cs
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\SecondProject.sourcelink.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\SecondProject.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\refint\SecondProject.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\SecondProject.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\SecondProject.genruntimeconfig.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondProject\obj\Debug\net6.0\ref\SecondProject.dll
