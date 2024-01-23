@@ -1,0 +1,15 @@
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\bin\Debug\net6.0\NewCalku.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\bin\Debug\net6.0\NewCalku.deps.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\bin\Debug\net6.0\NewCalku.runtimeconfig.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\bin\Debug\net6.0\NewCalku.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\bin\Debug\net6.0\NewCalku.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\NewCalku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\NewCalku.AssemblyInfoInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\NewCalku.AssemblyInfo.cs
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\NewCalku.csproj.CoreCompileInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\NewCalku.sourcelink.json
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\NewCalku.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\refint\NewCalku.dll
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\NewCalku.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\NewCalku.genruntimeconfig.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\NewCalku\obj\Debug\net6.0\ref\NewCalku.dll
