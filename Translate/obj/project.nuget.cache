@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4G1BRyhb35UgQtEBJrng5J69uc8fYC6mzbyEYt7+cHaajtmNbd/+7URtH2zYWg7mtp9rZmWWTu2iQpPZglDBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\Translate\\Translate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kchul\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\kchul\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
