@@ -1,0 +1,11 @@
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\bin\Debug\AppTranslator.exe.config
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\bin\Debug\AppTranslator.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\bin\Debug\AppTranslator.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.csproj.AssemblyReference.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.Form1.resources
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.Properties.Resources.resources
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.csproj.GenerateResource.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.csproj.CoreCompileInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.Form2.resources
