@@ -23,26 +23,36 @@ namespace AppTranslator
     
         public Form1()
         {
-        
+            
             InitializeComponent();
             textBox1.KeyPress += TextBox1_KeyPress;
             
             form2 = new Form2(this); // Przekazujemy referencję do Form1 do konstruktora Form2
             form2.DataUpdated += Form2_DataUpdated;
-
+            this.Load += Form1_Load;
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            LoadData();
         }
         private void LoadData()
         {
-            
-            PL = new Dictionary<string, string>(); 
-            EN = new Dictionary<string, string>();
-
-            if (File.Exists("dictionary.json"))
+            try
             {
-                string json = File.ReadAllText("dictionary.json");
-                var data = JsonConvert.DeserializeObject<Dictionary<string, string>[]>(json);
-                PL = data[0];
-                EN = data[1];
+                PL = new Dictionary<string, string>();
+                EN = new Dictionary<string, string>();
+
+                if (File.Exists("dictionary.json"))
+                {
+                    string json = File.ReadAllText("dictionary.json");
+                    var data = JsonConvert.DeserializeObject<Dictionary<string, string>[]>(json);
+                    PL = data[0];
+                    EN = data[1];
+
+                }
+            }catch (Exception ex)
+            {
+                MessageBox.Show($"Wystąpił wyjątek: {ex.Message}", "Błąd", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         private void Form2_DataUpdated(object sender, EventArgs e)
@@ -65,7 +75,7 @@ namespace AppTranslator
         }
         private void HandleEnterKeyPress()
         {
-            string enteredText = textBox1.Text;
+            string enteredText = textBox1.Text.ToUpper();
             string translation = GetTranslation(enteredText); // Pobierz tłumaczenie
             label2.Text = translation;
         }
@@ -97,13 +107,21 @@ namespace AppTranslator
         }
         private string GetTranslation(string enteredText)
         {
-            if (form2.PL.ContainsKey(enteredText))
+            try
             {
-                return form2.PL[enteredText]; // Zwróć tłumaczenie ze słownika
-            }
-            else
+                LoadData();
+                if (form2.PL.ContainsKey(enteredText))
+                {
+                    return form2.PL[enteredText]; // Zwróć tłumaczenie ze słownika
+                }
+                else
+                {
+                    return "Brak tłumaczenia"; // Zwróć wiadomość o braku tłumaczenia
+                }
+            }catch (Exception ex)
             {
-                return "Brak tłumaczenia"; // Zwróć wiadomość o braku tłumaczenia
+                MessageBox.Show($"Wystąpił wyjątek: {ex.Message}", "Błąd", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return "błąd";
             }
         }
         private void label2_Click(object sender, EventArgs e)

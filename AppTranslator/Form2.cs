@@ -128,8 +128,6 @@ namespace AppTranslator
         {
 
         }
-      
-
         private void button1_Click(object sender, EventArgs e)
         {
             plWord = textBox1.Text;
