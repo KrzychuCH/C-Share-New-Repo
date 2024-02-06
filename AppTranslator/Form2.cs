@@ -73,10 +73,16 @@ namespace AppTranslator
         public void Dict()
         {
 
-            if (!PL.ContainsKey(plWord))
+            if (!PL.ContainsKey(plWord) && !EN.ContainsKey(enWord))
+            {
                 PL.Add(plWord, enWord);
-            if (!EN.ContainsKey(enWord))
                 EN.Add(enWord, plWord);
+                MessageBox.Show("Słowa zostały dodane do słownika.");
+            }
+            else MessageBox.Show("Wartość już istnieje w słowniku");
+
+
+
 
         }
         private void UpdateDictionary()
@@ -141,12 +147,13 @@ namespace AppTranslator
                 Dict();
                 SaveData();
                 DataUpdated?.Invoke(this, EventArgs.Empty);
-                MessageBox.Show("Słowa zostały dodane do słownika.");
+
+               
             }
 
             string enteredText = textBox1.Text;
-            parentForm.label2.Text = enteredText;
-
+            parentForm.label2.Text =  enteredText;
+  
             plWord = textBox2.Text;
         }
 

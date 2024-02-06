@@ -20,14 +20,15 @@ namespace AppTranslator
         public Dictionary<string, string> PL { get; set; }
         public Dictionary<string, string> EN { get; set; }
         private Form2 form2;
-    
+        private Form2 form3;
+
         public Form1()
         {
             
             InitializeComponent();
             textBox1.KeyPress += TextBox1_KeyPress;
             
-            form2 = new Form2(this); // Przekazujemy referencję do Form1 do konstruktora Form2
+            form2 = new Form2(this);
             form2.DataUpdated += Form2_DataUpdated;
             
         }
@@ -118,13 +119,25 @@ namespace AppTranslator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2(this); // Przekazanie instancji Form1 do konstruktora Form2
+           // Form2 form2 = new Form2(this); // Przekazanie instancji Form1 do konstruktora Form2
             form2.ShowDialog(); // Wyświetlenie Form2
 
             string enteredText = form2.plWord; // Pobranie tłumaczenia z Form2
             label2.Text = enteredText;
-            
+
+            if (string.IsNullOrEmpty(enteredText))
+            {
+                label2.Text = "";
+            }
+
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            LoadData();
+            Form3 form3 = new Form3(this); // Przekazanie instancji Form1 do konstruktora Form3
+            form3.ShowDialog(); // Wyświetlenie Form3
+
+        }
     }
  }

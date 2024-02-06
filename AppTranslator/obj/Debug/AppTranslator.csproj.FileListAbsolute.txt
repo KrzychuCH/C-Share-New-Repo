@@ -12,3 +12,4 @@ C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTrans
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\bin\Debug\Newtonsoft.Json.dll
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\bin\Debug\Newtonsoft.Json.xml
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.csproj.CopyComplete
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\AppTranslator\obj\Debug\AppTranslator.Form3.resources
