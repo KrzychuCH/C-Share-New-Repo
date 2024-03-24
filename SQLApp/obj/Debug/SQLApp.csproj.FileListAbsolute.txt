@@ -3,3 +3,8 @@ C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.Form1.re
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.Properties.Resources.resources
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.csproj.GenerateResource.cache
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.csproj.CoreCompileInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\bin\Debug\SQLApp.exe.config
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\bin\Debug\SQLApp.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\bin\Debug\SQLApp.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.pdb

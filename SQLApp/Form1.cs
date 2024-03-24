@@ -21,7 +21,12 @@ namespace SQLApp
 
         private void label1_Click(object sender, EventArgs e)
         {
-            string connectionString = "DESKTOP-T0QFA56";
+          
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string connectionString = "Server=DESKTOP-T0QFA56;Database=AdventureWorks;Trusted_Connection=True";
             string procedureName = "Test_Test1";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -35,11 +40,14 @@ namespace SQLApp
 
                 if (reader.HasRows)
                 {
-                    while (reader.Read())
-                    {
-                        // Dodawanie danych z wyników procedury do ComboBox
-                        label.Items.Add(reader["LastName"].ToString());
-                    }
+                    // Jeśli są dane, odczytaj pierwszy rekord
+                    reader.Read();
+
+                    // Pobierz wartość z kolumny "LastName" pierwszego rekordu
+                    string lastName = reader["LastName"].ToString();
+
+                    // Wyświetl wartość w kontrolce Label
+                    label.Text = lastName;
                 }
 
                 reader.Close();
