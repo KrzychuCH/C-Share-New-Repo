@@ -1,0 +1,5 @@
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.csproj.AssemblyReference.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.Form1.resources
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.Properties.Resources.resources
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.csproj.GenerateResource.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SQLApp\obj\Debug\SQLApp.csproj.CoreCompileInputs.cache

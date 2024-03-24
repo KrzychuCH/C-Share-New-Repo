@@ -1,4 +1,5 @@
 ﻿using System.Security.Cryptography.X509Certificates;
+using System.Threading.Channels;
 
 namespace SecondProject
 {
@@ -42,7 +43,7 @@ namespace SecondProject
             program.FirstTest();  // ta metoda wykonuje cały blok który był wcześniej zdefiniowany
             program.Genraltest(); // ta metoda wykonuje cały blok który był wcześniej zdefiniowany
 
-
+            Console.WriteLine("test");
 
         }
     }
