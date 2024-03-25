@@ -1,0 +1,10 @@
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.csproj.AssemblyReference.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.Form1.resources
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.Properties.Resources.resources
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.csproj.GenerateResource.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.csproj.CoreCompileInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\bin\Debug\FirstWMS.exe.config
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\bin\Debug\FirstWMS.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\bin\Debug\FirstWMS.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.exe
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.pdb
