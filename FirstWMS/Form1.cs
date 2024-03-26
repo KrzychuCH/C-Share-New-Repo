@@ -91,6 +91,13 @@ namespace FirstWMS
                         }
                         // Ustawienie wartości zmiennej res
                         res = result;
+                        if (res == 1)
+                        {
+                            // Pokaż Form2, jeśli wynik autoryzacji jest równy 1
+                            Form2 form2 = new Form2();
+                            form2.Show();
+                            this.Hide();
+                        }
 
                     }
                     catch (Exception ex)

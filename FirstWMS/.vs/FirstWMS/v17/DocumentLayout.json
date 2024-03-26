@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|c:\\users\\kchul\\onedrive\\pulpit\\c-share new repo\\firstwms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|c:\\users\\kchul\\onedrive\\pulpit\\c-share new repo\\firstwms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|c:\\users\\kchul\\onedrive\\pulpit\\c-share new repo\\firstwms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|c:\\users\\kchul\\onedrive\\pulpit\\c-share new repo\\firstwms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|c:\\users\\kchul\\onedrive\\pulpit\\c-share new repo\\firstwms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:40:28.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:23:39.939Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -31,19 +66,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Title": "Form2.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form2.cs [Projekt]",
+              "RelativeToolTip": "Form2.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:40:28.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T16:58:17.451Z",
+              "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

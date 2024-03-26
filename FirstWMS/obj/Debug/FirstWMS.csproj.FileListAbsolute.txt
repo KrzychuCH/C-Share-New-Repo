@@ -8,3 +8,4 @@ C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\bin\Debug\FirstWMS.exe
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\bin\Debug\FirstWMS.pdb
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.exe
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.pdb
+C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\FirstWMS\obj\Debug\FirstWMS.Form2.resources
