@@ -17,34 +17,31 @@ namespace FirstWMS
         {
             InitializeComponent();
         }
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+
+      
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
         {
 
         }
         private void button4_Click(object sender, EventArgs e)
         {
-            string connectionString = "Server=DESKTOP-T0QFA56;Database=AdventureWorks;Trusted_Connection=True";
-            string query = "select Login,Name from users ";
 
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                SqlCommand command = new SqlCommand(query, connection);
-                SqlDataAdapter adapter = new SqlDataAdapter(command);
-                DataTable dataTable = new DataTable();
 
-                try
-                {
-                    connection.Open();
-                    adapter.Fill(dataTable);
-                    dataGridView1.DataSource = dataTable;
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Wystąpił błąd: " + ex.Message);
-                }
-
-            }
-         }
-       
+        }
     }
 }
