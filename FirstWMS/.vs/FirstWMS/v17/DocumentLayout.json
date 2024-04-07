@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|c:\\users\\kchul\\onedrive\\pulpit\\c-share new repo\\firstwms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -17,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE72FF9-A515-4C7C-A65A-8D6197EE7284}|FirstWMS.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -51,7 +51,8 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T16:38:09.758Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -63,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
@@ -76,14 +77,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form3.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form3.cs [Projekt]",
               "RelativeToolTip": "Form3.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T16:36:41.787Z"
+              "WhenOpened": "2024-04-07T16:36:41.787Z",
+              "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
@@ -93,14 +95,14 @@
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T17:23:39.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -112,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -120,18 +122,20 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAcwCsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T17:13:22.974Z"
+              "WhenOpened": "2024-04-07T17:13:22.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\C-share New Repo\\FirstWMS\\Form1.cs [Projekt]",
               "RelativeToolTip": "Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:38:53.823Z"
+              "WhenOpened": "2024-03-25T19:38:53.823Z",
+              "EditorCaption": " [Projekt]"
             }
           ]
         }
