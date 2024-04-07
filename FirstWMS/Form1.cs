@@ -21,7 +21,12 @@ namespace FirstWMS
         public Form1()
         {
             InitializeComponent();
-     
+            this.Shown += Form1_Shown;
+            textBox2.KeyPress += textBox2_KeyPress;
+        }
+        private void Form1_Shown(object sender, EventArgs e)
+        {
+            textBox1.Focus(); // Ustawienie fokusu na textBox1 po załadowaniu formularza
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -31,11 +36,21 @@ namespace FirstWMS
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+        
             logg = textBox1.Text;
         }
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
+            textBox2.PasswordChar = '*';
             pass = textBox2.Text;
+        }
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+            
+                logged_Click(sender, e);
+            }
         }
 
         private void logged_Click(object sender, EventArgs e)
@@ -57,37 +72,21 @@ namespace FirstWMS
                     command.Parameters.Add("@msg", SqlDbType.NVarChar, 254).Direction = ParameterDirection.Output;
                     command.Parameters.Add("@res", SqlDbType.Int).Direction = ParameterDirection.Output;
 
-                    /*
-                                        // Dodanie parametru wyjściowego do przechwycenia komunikatu z procedury
-                                        SqlParameter outputParameter = new SqlParameter("@msg",SqlDbType.NVarChar,254);
-                                        outputParameter.Direction = ParameterDirection.Output;
-                                        command.Parameters.Add(outputParameter);
-
-                                        // Dodanie parametru wyjściowego do przechwycenia wyniku autoryzacji z procedury
-                                        SqlParameter outputParameter2 = new SqlParameter("@res",SqlDbType.Int);
-                                        outputParameter2.Direction = ParameterDirection.Output;
-                                        command.Parameters.Add(outputParameter2);*/
-
                     try
                     {
                         connection.Open();
 
 
                         command.ExecuteNonQuery();
-                        /*
-                        // Pobranie komunikatu z procedury
-                        message = command.Parameters["@msg"].Value.ToString();
-                        // Pobranie wyniku autoryzacji z procedury
-                        res = (int)command.Parameters["@res"].Value;
-
-                        // Wyświetlenie komunikatu
-                        MessageBox.Show(message);*/
+                   
                         string message = command.Parameters["@msg"].Value.ToString();
                         int result = (int)command.Parameters["@res"].Value;
 
                         if (!string.IsNullOrEmpty(message))
                         {
                             MessageBox.Show(message);
+                            textBox2.Text = "";
+
                         }
                         // Ustawienie wartości zmiennej res
                         res = result;
